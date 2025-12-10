@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastian515
 - 👀 I’m interested in innovative projects
-- 🌱 I’m currently learning developement with C, C++, Java, project-management
+- 🌱 I’m currently learning developement with Kotlin, C++, Java, project-management
 - 📫 How to reach me seb51@protonmail.com
 
 <!---
